@@ -8,8 +8,8 @@ public class CameraHandler : MonoBehaviour
     private static readonly float ZoomSpeedTouch = 0.1f;
     private static readonly float ZoomSpeedMouse = 2.0f;
 
-    private static readonly float[] BoundsX = new float[] { -10f, 10f };
-    private static readonly float[] BoundsZ = new float[] { -18f, 18f };
+    private static readonly float[] BoundsX = new float[] { 5f, 5f };
+    private static readonly float[] BoundsZ = new float[] { 5f, 5f };
     private static readonly float[] ZoomBounds = new float[] { 10f, 100f };
 
     public int Boundary = 50; // distance from edge scrolling starts

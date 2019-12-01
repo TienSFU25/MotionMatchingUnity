@@ -159,6 +159,7 @@ ModelImporter:
     400152: //RootNode
     7400000: WalkBwd
     9500000: //RootNode
+    11100000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -201,7 +202,7 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 1
       loopBlendOrientation: 1
       loopBlendPositionY: 1
